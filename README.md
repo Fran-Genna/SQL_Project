@@ -16,4 +16,6 @@ La questione ambientale mi sta molto a cuore, e credo fermamente nell'importanza
 La domanda che mi sono posto è: stiamo facendo abbastanza?
 Per rispondere a questa domanda,quale modo migliore di trovare la risposta se non attraverso i dati? 
 
-Questo progetto è stato sviluppato durante il mio percorso con [Start2Impact](https://www.start2impact.it/), in particolare durante il corso SQL, e quello che vedete qui è il progetto finale.
+Questo progetto è stato sviluppato durante il mio percorso con [Start2Impact](https://www.start2impact.it/).
+
+Questo è il mio primo lavoro con SQL in assoluto.
