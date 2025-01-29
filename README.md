@@ -1,4 +1,4 @@
-# Sostenibility
+# Energia e sostenibilità
 Negli ultimi 20 anni, nonostante il crescente impiego delle energie rinnovabili, 
 il mondo continua a incontrare difficoltà nel ridurre la dipendenza dai combustibili fossili.
 Questo progetto analizza i dati alla base della transizione energetica, 
